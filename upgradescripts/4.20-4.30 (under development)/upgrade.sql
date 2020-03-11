@@ -325,6 +325,9 @@ set @resources='
   <LocaleResource Name="Admin.Orders.Shipments.List.County.Hint">
     <Value>Search by a specific county / region.</Value>
   </LocaleResource>
+  <LocaleResource Name="Admin.ContentManagement.Topics.Fields.FriendlyName">
+    <Value>Name</Value>
+  </LocaleResource>
 </Language>
 '
 
